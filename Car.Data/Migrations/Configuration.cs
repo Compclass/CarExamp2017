@@ -18,6 +18,7 @@ namespace Cars.Data.Migrations
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data.
+            context.Manufacturers.AddOrUpdate(item => item.id, new Manufacturer { Name = "Кока кола", Country = "Usa" }, new Manufacturer { Name = "Pepsi кола", Country = "Usa" });
         }
     }
 }
