@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Car.Data")]
+[assembly: AssemblyTitle("Cars.Data")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("НИУ ВШЭ")]
-[assembly: AssemblyProduct("Car.Data")]
+[assembly: AssemblyProduct("Cars.Data")]
 [assembly: AssemblyCopyright("Copyright © НИУ ВШЭ 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

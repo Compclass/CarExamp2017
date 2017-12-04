@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.UI", "Car.UI\Car.UI.csproj", "{FAF1CD1C-E820-4BEB-AE7C-22EF48CE7D76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.Data", "Car.Data\Car.Data.csproj", "{B45C669C-D823-4578-95FE-3516684C546F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars.Data", "Car.Data\Cars.Data.csproj", "{B45C669C-D823-4578-95FE-3516684C546F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

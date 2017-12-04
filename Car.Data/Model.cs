@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Car.Data
+namespace Cars.Data
 {
     public class Model
     {
